@@ -14,6 +14,22 @@
 		389530A11D658E9000E872C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3895309F1D658E9000E872C8 /* LaunchScreen.storyboard */; };
 		389530AC1D658E9000E872C8 /* WangYiNewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389530AB1D658E9000E872C8 /* WangYiNewsTests.swift */; };
 		389530B71D658E9000E872C8 /* WangYiNewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389530B61D658E9000E872C8 /* WangYiNewsUITests.swift */; };
+		389530C51D65B49300E872C8 /* newsDetail.css in Resources */ = {isa = PBXBuildFile; fileRef = 389530C41D65B49300E872C8 /* newsDetail.css */; };
+		389530C71D65B4BB00E872C8 /* newDetail.js in Resources */ = {isa = PBXBuildFile; fileRef = 389530C61D65B4BB00E872C8 /* newDetail.js */; };
+		38B1FCDE1D66A88500181029 /* UIImage+Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCCF1D66A88500181029 /* UIImage+Rotation.swift */; };
+		38B1FCDF1D66A88500181029 /* UIView+Radius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD01D66A88500181029 /* UIView+Radius.swift */; };
+		38B1FCE01D66A88500181029 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 38B1FCD11D66A88500181029 /* Info.plist */; };
+		38B1FCE11D66A88500181029 /* SKCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD21D66A88500181029 /* SKCache.swift */; };
+		38B1FCE21D66A88500181029 /* SKCacheable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD31D66A88500181029 /* SKCacheable.swift */; };
+		38B1FCE31D66A88500181029 /* SKCaptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD41D66A88500181029 /* SKCaptionView.swift */; };
+		38B1FCE41D66A88500181029 /* SKDetectingImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD51D66A88500181029 /* SKDetectingImageView.swift */; };
+		38B1FCE51D66A88500181029 /* SKDetectingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD61D66A88500181029 /* SKDetectingView.swift */; };
+		38B1FCE61D66A88500181029 /* SKIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD71D66A88500181029 /* SKIndicatorView.swift */; };
+		38B1FCE71D66A88500181029 /* SKLocalPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD81D66A88500181029 /* SKLocalPhoto.swift */; };
+		38B1FCE81D66A88500181029 /* SKPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCD91D66A88500181029 /* SKPhoto.swift */; };
+		38B1FCE91D66A88500181029 /* SKPhotoBrowser.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 38B1FCDA1D66A88500181029 /* SKPhotoBrowser.bundle */; };
+		38B1FCEA1D66A88500181029 /* SKPhotoBrowser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCDC1D66A88500181029 /* SKPhotoBrowser.swift */; };
+		38B1FCEB1D66A88500181029 /* SKZoomingScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B1FCDD1D66A88500181029 /* SKZoomingScrollView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,23 @@
 		389530B21D658E9000E872C8 /* WangYiNewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WangYiNewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		389530B61D658E9000E872C8 /* WangYiNewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WangYiNewsUITests.swift; sourceTree = "<group>"; };
 		389530B81D658E9000E872C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		389530C41D65B49300E872C8 /* newsDetail.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = newsDetail.css; sourceTree = "<group>"; };
+		389530C61D65B4BB00E872C8 /* newDetail.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = newDetail.js; sourceTree = "<group>"; };
+		38B1FCCF1D66A88500181029 /* UIImage+Rotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Rotation.swift"; sourceTree = "<group>"; };
+		38B1FCD01D66A88500181029 /* UIView+Radius.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Radius.swift"; sourceTree = "<group>"; };
+		38B1FCD11D66A88500181029 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38B1FCD21D66A88500181029 /* SKCache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKCache.swift; sourceTree = "<group>"; };
+		38B1FCD31D66A88500181029 /* SKCacheable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKCacheable.swift; sourceTree = "<group>"; };
+		38B1FCD41D66A88500181029 /* SKCaptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKCaptionView.swift; sourceTree = "<group>"; };
+		38B1FCD51D66A88500181029 /* SKDetectingImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKDetectingImageView.swift; sourceTree = "<group>"; };
+		38B1FCD61D66A88500181029 /* SKDetectingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKDetectingView.swift; sourceTree = "<group>"; };
+		38B1FCD71D66A88500181029 /* SKIndicatorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKIndicatorView.swift; sourceTree = "<group>"; };
+		38B1FCD81D66A88500181029 /* SKLocalPhoto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKLocalPhoto.swift; sourceTree = "<group>"; };
+		38B1FCD91D66A88500181029 /* SKPhoto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKPhoto.swift; sourceTree = "<group>"; };
+		38B1FCDA1D66A88500181029 /* SKPhotoBrowser.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SKPhotoBrowser.bundle; sourceTree = "<group>"; };
+		38B1FCDB1D66A88500181029 /* SKPhotoBrowser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKPhotoBrowser.h; sourceTree = "<group>"; };
+		38B1FCDC1D66A88500181029 /* SKPhotoBrowser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKPhotoBrowser.swift; sourceTree = "<group>"; };
+		38B1FCDD1D66A88500181029 /* SKZoomingScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKZoomingScrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +130,15 @@
 		389530951D658E9000E872C8 /* WangYiNews */ = {
 			isa = PBXGroup;
 			children = (
+				38B1FCCD1D66A88500181029 /* SKPhotoBrowser */,
 				389530961D658E9000E872C8 /* AppDelegate.swift */,
 				389530981D658E9000E872C8 /* ViewController.swift */,
 				3895309A1D658E9000E872C8 /* Main.storyboard */,
 				3895309D1D658E9000E872C8 /* Assets.xcassets */,
 				3895309F1D658E9000E872C8 /* LaunchScreen.storyboard */,
 				389530A21D658E9000E872C8 /* Info.plist */,
+				389530C41D65B49300E872C8 /* newsDetail.css */,
+				389530C61D65B4BB00E872C8 /* newDetail.js */,
 			);
 			path = WangYiNews;
 			sourceTree = "<group>";
@@ -123,6 +159,36 @@
 				389530B81D658E9000E872C8 /* Info.plist */,
 			);
 			path = WangYiNewsUITests;
+			sourceTree = "<group>";
+		};
+		38B1FCCD1D66A88500181029 /* SKPhotoBrowser */ = {
+			isa = PBXGroup;
+			children = (
+				38B1FCCE1D66A88500181029 /* extensions */,
+				38B1FCD11D66A88500181029 /* Info.plist */,
+				38B1FCD21D66A88500181029 /* SKCache.swift */,
+				38B1FCD31D66A88500181029 /* SKCacheable.swift */,
+				38B1FCD41D66A88500181029 /* SKCaptionView.swift */,
+				38B1FCD51D66A88500181029 /* SKDetectingImageView.swift */,
+				38B1FCD61D66A88500181029 /* SKDetectingView.swift */,
+				38B1FCD71D66A88500181029 /* SKIndicatorView.swift */,
+				38B1FCD81D66A88500181029 /* SKLocalPhoto.swift */,
+				38B1FCD91D66A88500181029 /* SKPhoto.swift */,
+				38B1FCDA1D66A88500181029 /* SKPhotoBrowser.bundle */,
+				38B1FCDB1D66A88500181029 /* SKPhotoBrowser.h */,
+				38B1FCDC1D66A88500181029 /* SKPhotoBrowser.swift */,
+				38B1FCDD1D66A88500181029 /* SKZoomingScrollView.swift */,
+			);
+			path = SKPhotoBrowser;
+			sourceTree = "<group>";
+		};
+		38B1FCCE1D66A88500181029 /* extensions */ = {
+			isa = PBXGroup;
+			children = (
+				38B1FCCF1D66A88500181029 /* UIImage+Rotation.swift */,
+				38B1FCD01D66A88500181029 /* UIView+Radius.swift */,
+			);
+			path = extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,8 +296,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				389530A11D658E9000E872C8 /* LaunchScreen.storyboard in Resources */,
+				389530C51D65B49300E872C8 /* newsDetail.css in Resources */,
+				38B1FCE01D66A88500181029 /* Info.plist in Resources */,
+				38B1FCE91D66A88500181029 /* SKPhotoBrowser.bundle in Resources */,
 				3895309E1D658E9000E872C8 /* Assets.xcassets in Resources */,
 				3895309C1D658E9000E872C8 /* Main.storyboard in Resources */,
+				389530C71D65B4BB00E872C8 /* newDetail.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +326,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38B1FCE81D66A88500181029 /* SKPhoto.swift in Sources */,
+				38B1FCE41D66A88500181029 /* SKDetectingImageView.swift in Sources */,
 				389530991D658E9000E872C8 /* ViewController.swift in Sources */,
+				38B1FCE61D66A88500181029 /* SKIndicatorView.swift in Sources */,
 				389530971D658E9000E872C8 /* AppDelegate.swift in Sources */,
+				38B1FCEA1D66A88500181029 /* SKPhotoBrowser.swift in Sources */,
+				38B1FCDF1D66A88500181029 /* UIView+Radius.swift in Sources */,
+				38B1FCDE1D66A88500181029 /* UIImage+Rotation.swift in Sources */,
+				38B1FCE71D66A88500181029 /* SKLocalPhoto.swift in Sources */,
+				38B1FCE21D66A88500181029 /* SKCacheable.swift in Sources */,
+				38B1FCE51D66A88500181029 /* SKDetectingView.swift in Sources */,
+				38B1FCE31D66A88500181029 /* SKCaptionView.swift in Sources */,
+				38B1FCE11D66A88500181029 /* SKCache.swift in Sources */,
+				38B1FCEB1D66A88500181029 /* SKZoomingScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -484,6 +566,7 @@
 				389530BD1D658E9000E872C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		389530BE1D658E9000E872C8 /* Build configuration list for PBXNativeTarget "WangYiNewsTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +575,7 @@
 				389530C01D658E9000E872C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		389530C11D658E9000E872C8 /* Build configuration list for PBXNativeTarget "WangYiNewsUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +584,7 @@
 				389530C31D658E9000E872C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
